@@ -32,3 +32,4 @@ module.exports = {
   // https://vercel.com/docs/concepts/edge-network/caching
   cacheControlHeader: 'max-age=0, s-maxage=60, stale-while-revalidate',
 }
+
